@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
    npm run dev
    ```
 
-   This will start the development server. Open [http://localhost:3000](http://localhost:3000) in your browser to view WallPix.
+   This will start the development server. Open [http://localhost:5173](http://localhost:5173) in your browser to view WallPix.
 
 ## Usage
 
